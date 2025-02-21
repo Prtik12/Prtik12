@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi!👋 I'm Pratik 👾 <br>
  I’m currently learning 🌱<br>
 
 
