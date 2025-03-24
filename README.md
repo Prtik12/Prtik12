@@ -1,38 +1,106 @@
-# Hi!👋 I'm Pratik 👾 <br>
- I’m currently learning 🌱<br>
+###
+<h2 align="center">
+  <img src="https://media.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif?cid=790b7611kcpr64hjyt7jbve4vdkvw2m8rz4s86bbsgr38w18&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="40"> I'm Pratik  
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa28yNmd2dmM0dWtidDQ3cm42dGxkM3JrdGZvNXN1YzFza2d0N3g2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/12PXNbcHW8C9Bm/giphy.gif" width="40" align="absmiddle">
+</h2>
+<a href="https://github.com/abhinavkale-dev">
+   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNzODRqcmVseHVpc2J6cTgydHk1eHdmdGwxdXNob3g5dG8zNXh6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n7xN8Tqaagpol3DkyF/giphy.gif" width="400">
+</a>
+
+### <img src="https://media.giphy.com/media/Zebztgv7jmkoLe1DoY/giphy.gif?cid=ecf05e473t22i4scweo65028p2tlkre0zpc4x1aa0808tuu8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle">  I’m currently learning 
+- Golang <img src="https://media.giphy.com/media/zYi4Qdbs4LUmCrVD82/giphy.gif?cid=790b7611j85x6cy672oe01j55fs6y16ua0uirzdr3jxtel3x&ep=v1_stickers_search&rid=giphy.gif&ct=" width="40" align="absmiddle">
+- React.js, Next.js <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=790b7611of7n9ghlzd949b0isywl0vriatvctujp2ql84yut&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle">
+- CS Fundamentals <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=790b76112ruiygn7j5lvvgytwl81cyxuzj08h3vny6imgfiq&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle">
+
+### <img src="https://media.giphy.com/media/n24Eq6str4wLglFVw6/giphy.gif?cid=790b7611tsdiq320yew5aukjpcfkl9drf87ndgo5gz28wmc0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle"> Goals for 2025
+- Build 30+ projects <img src="https://media.giphy.com/media/BiSeh1hFJ2waKPld1p/giphy.gif?cid=790b7611dg4uzy0qrovmxhpsc0qq5hgz0v31qr5q377rt6dm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle">
+- Contribute to Open Source <img src="https://media.giphy.com/media/UP3y7jUL3vpnVyawjo/giphy.gif?cid=ecf05e47veix02ae9zf90gx158mn74nfkum2huueqi61we80&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle">
+- Get Internship <img src="https://media.giphy.com/media/RW1n4Qh34k4c6oWg7n/giphy.gif?cid=ecf05e47veix02ae9zf90gx158mn74nfkum2huueqi61we80&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle">
+
+##
+
+### <img src="https://media.giphy.com/media/RfSEtAibkFAGiVVYX0/giphy.gif?cid=ecf05e471b45wcbngxvy8qyevuwq2zur5k7mctj8d4dteuut&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle"> Account Status : 
+
+<details>
+  <summary>Details</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prtik12&show_icons=true&theme=tokyonight" />
+</details>
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Prtik12&layout=compact&theme=tokyonight)
 
-## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/UrbanCadence) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iPratikkk___) 
-
-# 💻 Tech Stack:
-![](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)![](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) [](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white) ![](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) [](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) [](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
+<h2 align="left"><img src="https://media.giphy.com/media/QVz8bVdhi6dmkIkg61/giphy.gif?cid=ecf05e47po4gkdwzxbxw64i1srzzofliw5v2qtp3xvd7j8zn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle"> Tech Stack :</h2>
 
 
+<div align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
+  </a>
+  <img width="12" />
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
+  </a>
+  <img width="12" />
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
+  </a>
+  <img width="12" />
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
+  </a>
+  <img width="12" />
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes logo" />
+  </a>
+  <img width="12" />
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="googlecloud logo" />
+  </a>
+  <img width="12" />
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" alt="amazonwebservices logo" />
+  </a>
+  <img width="12" />
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo" />
+  </a>
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prtik12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prtik12&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prtik12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
+<h3><img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=ecf05e47246z68gic13exguovr5xae6jhotnfa5nmu0evi54&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="absmiddle"> Let's Connect - </h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prtik12&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prtik12&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<table width="120" align="left">
+  <tr>  
+    <td align="center" width="60">
+      <a href="https://x.com/iPratikkk___"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" width="60"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="mailto:babyjesus7695@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
+    </td>
+  </tr>
+</table>
+<br><br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prtik12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prtik12/Prtik12/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prtik12/Prtik12/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Prtik12/Prtik12/output/github-snake.svg" />
 </picture>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
