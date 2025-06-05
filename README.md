@@ -8,7 +8,7 @@
 </a>
 
 ### <img src="https://media.giphy.com/media/Zebztgv7jmkoLe1DoY/giphy.gif?cid=ecf05e473t22i4scweo65028p2tlkre0zpc4x1aa0808tuu8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle">  I’m currently learning 
-- Web3 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmNHFibno1NGsyZ2ppZ3NtbG9keTUzZ2Jqc2JseWZtM3VqNGVrbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="40" align="absmiddle">
+- Web3 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YW0yanlvcmpoNXdlbjFmeGI4aXhjbWZxbngxeTJvdmFkOXVlbWY5ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sMxhudBF8BeWeCeBZQ/giphy.gif" width="40" align="absmiddle">
 - Golang <img src="https://media.giphy.com/media/zYi4Qdbs4LUmCrVD82/giphy.gif?cid=790b7611j85x6cy672oe01j55fs6y16ua0uirzdr3jxtel3x&ep=v1_stickers_search&rid=giphy.gif&ct=" width="40" align="absmiddle">
 - React.js, Next.js <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=790b7611of7n9ghlzd949b0isywl0vriatvctujp2ql84yut&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle">
 
