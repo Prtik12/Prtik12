@@ -28,58 +28,49 @@
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Prtik12&layout=compact&theme=tokyonight)
 
-<h2 align="left"><img src="https://media.giphy.com/media/QVz8bVdhi6dmkIkg61/giphy.gif?cid=ecf05e47po4gkdwzxbxw64i1srzzofliw5v2qtp3xvd7j8zn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle"> Tech Stack :</h2>
-
+<h2 align="left">
+  <img src="https://media.giphy.com/media/QVz8bVdhi6dmkIkg61/giphy.gif" width="40" align="absmiddle"> Tech Stack :
+</h2>
 
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
   </a>
-  <img width="12" />
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
   </a>
-  <img width="12" />
   <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
   </a>
-  <img width="12" />
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;background:white;border-radius:5px;padding:2px;" />
   </a>
-  <img width="12" />
   <a href="https://go.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
   </a>
-  <img width="12" />
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
   </a>
-  <img width="12" />
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
   </a>
-  <img width="12" />
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
   </a>
-  <img width="12" />
   <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
   </a>
-  <img width="12" />
   <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="googlecloud logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
   </a>
-  <img width="12" />
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" alt="amazonwebservices logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="AWS" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
   </a>
-  <img width="12" />
   <a href="https://redis.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
   </a>
 </div>
+
 
 ###
 
