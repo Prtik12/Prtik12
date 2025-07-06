@@ -3,8 +3,8 @@
   <img src="https://media.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif?cid=790b7611kcpr64hjyt7jbve4vdkvw2m8rz4s86bbsgr38w18&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="40"> I'm Pratik  
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa28yNmd2dmM0dWtidDQ3cm42dGxkM3JrdGZvNXN1YzFza2d0N3g2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/12PXNbcHW8C9Bm/giphy.gif" width="40" align="absmiddle">
 </h2>
-<a href="https://github.com/abhinavkale-dev">
-   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNzODRqcmVseHVpc2J6cTgydHk1eHdmdGwxdXNob3g5dG8zNXh6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n7xN8Tqaagpol3DkyF/giphy.gif" width="400">
+<a href="https://github.com/Prtik12">
+   <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN2em9jZGdwZjYyYTR6M2MwNzdnaXZ2ejduZ3cxcHdzbWhsOWl6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lr9PXo1yNjJUoPiqiG/giphy.gif" width="400">
 </a>
 
 ### <img src="https://media.giphy.com/media/Zebztgv7jmkoLe1DoY/giphy.gif?cid=ecf05e473t22i4scweo65028p2tlkre0zpc4x1aa0808tuu8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle">  I’m currently learning 
