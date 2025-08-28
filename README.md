@@ -12,12 +12,7 @@
 - Golang <img src="https://media.giphy.com/media/zYi4Qdbs4LUmCrVD82/giphy.gif?cid=790b7611j85x6cy672oe01j55fs6y16ua0uirzdr3jxtel3x&ep=v1_stickers_search&rid=giphy.gif&ct=" width="40" align="absmiddle">
 - React.js, Next.js <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=790b7611of7n9ghlzd949b0isywl0vriatvctujp2ql84yut&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle">
 
-### <img src="https://media.giphy.com/media/n24Eq6str4wLglFVw6/giphy.gif?cid=790b7611tsdiq320yew5aukjpcfkl9drf87ndgo5gz28wmc0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle"> Goals for 2025
-- Build 30+ projects <img src="https://media.giphy.com/media/BiSeh1hFJ2waKPld1p/giphy.gif?cid=790b7611dg4uzy0qrovmxhpsc0qq5hgz0v31qr5q377rt6dm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle">
-- Contribute to Open Source <img src="https://media.giphy.com/media/UP3y7jUL3vpnVyawjo/giphy.gif?cid=ecf05e47veix02ae9zf90gx158mn74nfkum2huueqi61we80&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle">
-- Get Internship <img src="https://media.giphy.com/media/RW1n4Qh34k4c6oWg7n/giphy.gif?cid=ecf05e47veix02ae9zf90gx158mn74nfkum2huueqi61we80&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle">
 
-##
 
 ### <img src="https://media.giphy.com/media/RfSEtAibkFAGiVVYX0/giphy.gif?cid=ecf05e471b45wcbngxvy8qyevuwq2zur5k7mctj8d4dteuut&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle"> Account Status : 
 
