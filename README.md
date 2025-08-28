@@ -4,7 +4,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa28yNmd2dmM0dWtidDQ3cm42dGxkM3JrdGZvNXN1YzFza2d0N3g2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/12PXNbcHW8C9Bm/giphy.gif" width="40" align="absmiddle">
 </h2>
 <a href="https://github.com/Prtik12">
-   <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN2em9jZGdwZjYyYTR6M2MwNzdnaXZ2ejduZ3cxcHdzbWhsOWl6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lr9PXo1yNjJUoPiqiG/giphy.gif" width="360">
+   <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN2em9jZGdwZjYyYTR6M2MwNzdnaXZ2ejduZ3cxcHdzbWhsOWl6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lr9PXo1yNjJUoPiqiG/giphy.gif" width="400">
 </a>
 
 
@@ -15,7 +15,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Prtik12&show_icons=true&theme=tokyonight" />
 </details>
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Prtik12&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Prtik12&layout=compact&theme=tokyonight" width="350">
+</p>
 
 <h3 align="left">
   <img src="https://media.giphy.com/media/QVz8bVdhi6dmkIkg61/giphy.gif" width="40" align="absmiddle"> Tech Stack :
