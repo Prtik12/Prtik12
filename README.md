@@ -7,12 +7,6 @@
    <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN2em9jZGdwZjYyYTR6M2MwNzdnaXZ2ejduZ3cxcHdzbWhsOWl6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lr9PXo1yNjJUoPiqiG/giphy.gif" width="400">
 </a>
 
-### <img src="https://media.giphy.com/media/Zebztgv7jmkoLe1DoY/giphy.gif?cid=ecf05e473t22i4scweo65028p2tlkre0zpc4x1aa0808tuu8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle">  I’m currently learning 
-- Web3 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YW0yanlvcmpoNXdlbjFmeGI4aXhjbWZxbngxeTJvdmFkOXVlbWY5ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sMxhudBF8BeWeCeBZQ/giphy.gif" width="40" align="absmiddle">
-- Golang <img src="https://media.giphy.com/media/zYi4Qdbs4LUmCrVD82/giphy.gif?cid=790b7611j85x6cy672oe01j55fs6y16ua0uirzdr3jxtel3x&ep=v1_stickers_search&rid=giphy.gif&ct=" width="40" align="absmiddle">
-- React.js, Next.js <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=790b7611of7n9ghlzd949b0isywl0vriatvctujp2ql84yut&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle">
-
-
 
 ### <img src="https://media.giphy.com/media/RfSEtAibkFAGiVVYX0/giphy.gif?cid=ecf05e471b45wcbngxvy8qyevuwq2zur5k7mctj8d4dteuut&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle"> Account Status : 
 
@@ -23,9 +17,9 @@
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Prtik12&layout=compact&theme=tokyonight)
 
-<h2 align="left">
+<h3 align="left">
   <img src="https://media.giphy.com/media/QVz8bVdhi6dmkIkg61/giphy.gif" width="40" align="absmiddle"> Tech Stack :
-</h2>
+</h3>
 
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -69,7 +63,7 @@
 
 ###
 
-<h3><img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=ecf05e47246z68gic13exguovr5xae6jhotnfa5nmu0evi54&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="absmiddle"> Let's Connect - </h3>
+<h3><img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=ecf05e47246z68gic13exguovr5xae6jhotnfa5nmu0evi54&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="absmiddle"> Let's Connect : </h3>
 
 <table width="120" align="left">
   <tr>  
