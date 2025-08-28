@@ -16,7 +16,7 @@
 </details>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Prtik12&layout=compact&theme=tokyonight" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Prtik12&layout=compact&theme=tokyonight" width="390">
 </p>
 
 <h3 align="left">
